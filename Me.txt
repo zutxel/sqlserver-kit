@@ -1,0 +1,15 @@
+sqlserver-kit/Stored_Procedure/dbo.PerformanceGraph.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_Blocked_Process_Report_Viewer.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_ChangeDatabaseOwnerShip.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_GenerateMerge.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_IndexAnalysis-v11.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_PerfSQ.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_capture_login_auth.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_generate_merge.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_help_permissions.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_sizing.sql 
+sqlserver-kit/Stored_Procedure/dbo.sp_sqltrace.sql 
+sqlserver-kit/Stored_Procedure/dbo.sqlg_ParseDiskskpXml.sql 
+sqlserver-kit/Stored_Procedure/dbo.usp_Generate_Merge.sql 
+sqlserver-kit/Stored_Procedure/dbo.usp_GetPackageDetails.sql 
+sqlserver-kit/Stored_Procedure/dbo.usp_who5.sql 
